@@ -1,3 +1,5 @@
 Hey there, this is the first file added to the index.txt.
 This has been a great fun.
 Unlike the popular disclaimer, you should try this at home.
+
+Hey whatever. This line is going have a conflict. Please resolve this.
