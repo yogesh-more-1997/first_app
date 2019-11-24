@@ -1,0 +1,8 @@
+This is the Chapter 1.
+As you go ahead, start adding more text to this file.
+
+---
+Section 1
+So here we are. Adding new text to Chapter 1.
+The best thing here is we are learning so much about git alongside.
+This section is an addition using dependent branch on Chapter 1's base branch.
