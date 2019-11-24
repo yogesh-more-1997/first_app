@@ -1,4 +1,5 @@
 Use this file to keep track of existing files in this repository.
 
-index.txt
+index
 #Start file list from here
+1. Introduction
